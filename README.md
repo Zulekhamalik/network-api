@@ -1,10 +1,12 @@
 # network-api
 
-This repository contains tools for accessing the Nexus Network Testnet.
+This repository contains tools for accessing the Nexus Network.
+Nexus Network is in testnet phase and under development.
+Public endpoints, especially those marked as beta may change.
 
 ## Command line interface
 
-See the [CLI readme](./clients/cli/README.md) to get started.
+See the [CLI README](./clients/cli/README.md) to get started.
 
 ## API
 
